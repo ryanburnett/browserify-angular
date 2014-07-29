@@ -16,6 +16,7 @@ Installation
 ```
 $ npm install -g node-static
 $ git clone git@github.com:ryanburnett/browserify-angular.git
+$ cd browserify-angular
 $ npm install
 $ npm run watch
 $ static app
